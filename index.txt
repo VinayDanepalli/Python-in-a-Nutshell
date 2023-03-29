@@ -1,0 +1,23 @@
+Python 
+------
+
+General purpose programming language. Guido Van Rossum. 1991
+
+High level, Dynamic, Object oriented, Cross-platform
+Can be used at all phases of software life cycle. 
+Analyze, design, prototype, code, test, debug, tune, document, maintain. 
+
+One of the design goals: Play well with others (Python being part of a solution)
+
+Very High level language, higher level of abstraction (Python, JavaScript, Ruby, Perl)
+
+Python standard library
+Cython; Ctypes; CEFI
+
+CPython(Classic Python) -- bytecode compiler and interpreter
+PyPy
+Nuitka
+RustPython
+GraalVM Python
+Pyston
+
